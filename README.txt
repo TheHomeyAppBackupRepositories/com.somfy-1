@@ -1,0 +1,1 @@
+The Somfy app provides simplified control of motorized blinds, shades, rolling shutters and more. Connect with Homey and create Flows that simplify your life at home. Is it raining? Let Homey adjust your blinds automatically. Or want to watch a movie? Dim the lights and close the curtains.

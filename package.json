@@ -1,0 +1,29 @@
+{
+  "name": "com.somfy",
+  "version": "1.0.0",
+  "description": "Somfy app for Homey",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "homey-rfdriver": "^3.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-athom": "^2.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athombv/com.somfy.git"
+  },
+  "author": "Athom B.V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athombv/com.somfy/issues"
+  },
+  "homepage": "https://github.com/athombv/com.somfy#readme"
+}

@@ -1,0 +1,1 @@
+Somfy biedt eenvoudige bediening van je slimme jaloezieën, zonneschermen en rolluiken. Koppel Somfy met Homey en stuur je zonwering automatisch aan. Gaat het regenen? Zorg er dan voor dat je je zonwering automatisch aanstuurt. Zin om een film te kijken? Dim de lichten en sluit de gordijnen.
